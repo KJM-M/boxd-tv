@@ -1,0 +1,18 @@
+{
+    "name": "boxd-tv",
+    "appName": "Boxd",
+    "version": "1.0.0",
+    "description": "TizenBrew module",
+    "packageType": "mods",
+    "websiteURL": "https://boxd.bz",
+    "main": "boxd.js",
+    "keys": [
+        "MediaPlayPause",
+        "MediaPlay",
+        "MediaPause",
+        "MediaStop",
+        "MediaFastForward",
+        "MediaRewind"
+    ],
+    "license": "UNLICENSED"
+}
